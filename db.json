@@ -1,12 +1,9 @@
 }
   "alunos": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
-  ],
-  "empresa": {
-    "nome": "Code Prestige"
-  }
+    { "id": 1, "name": "Marcelo", "username": "da Silva" },
+    { "id": 2, "name": "José Luiz", "username": "Felipe" },
+    { "id": 3, "name": "Paulo", "username": "Rogério" },
+    { "id": 4, "name": "Felipe", "username": "da Cunha" },
+    { "id": 5, "name": "Luiz Cardoso", "username": "Pereira" }
+  ]
 }
