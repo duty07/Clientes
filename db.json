@@ -5,7 +5,13 @@
     { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
     { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
   ],
-  "alunos": [ { "id": 1, "name": "Leanne Graham", "username": "Bret" }, { "id": 2, "name": "Ervin Howell", "username": "Antonette" }, { "id": 3, "name": "Clementine Bauch", "username": "Samantha" }, { "id": 4, "name": "Patricia Lebsack", "username": "Karianne", }, { "id": 5, "name": "Chelsey Dietrich", "username": "Kamren" }, { "id": 6, "name": "Mrs. Dennis Schulist", "username": "Leopoldo_Corkery" }, { "id": 7, "name": "Kurtis Weissnat", "username": "Elwyn.Skiles" } ],
+  "alunos": [
+    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
+    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
+    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
+    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+  ],
   "empresa": {
     "nome": "Code Prestige"
   }
