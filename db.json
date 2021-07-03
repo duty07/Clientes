@@ -1,9 +1,0 @@
-{
-  " alunos " : [
-    { " id " : 1 , " name " : " Marcela da Silva " , " username " : 1 },
-    { " id " : 2 , " name " : " José Luiz Felipe " , " curso " : 2 },
-    { " id " : 3 , " name " : " Paulo Rogério " , " curso " : 3 },
-    { " id " : 4 , " nome " : " Felipe da Cunha " , " curso " : 1 },
-    { " id " : 5 , " nome " : " Luiza Cardoso Pereira " , " curso " : 1 }
-  ]
-}
