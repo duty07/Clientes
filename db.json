@@ -1,4 +1,4 @@
-"Clientes" [
+"Clientes": [
   {
     "id": 1,
     "name": "Juliano",
@@ -14,24 +14,9 @@
     "name": "João",
     "username": "Douglas"
   },
-  {
+  { 
     "id": 4,
     "name": "Thiago",
     "username": "Vieira"
-  },
-  {
-    "id": 5,
-    "name": "Francisco",
-    "username": "Bocaiuva"
-  },
-  {
-    "id": 6,
-    "name": "Jorge",
-    "username": "Igor"
-  },
-  {
-    "id": 7,
-    "name": "Kurtis Weissnat",
-    "username": "Elwyn.Skiles"
-    }
+  }
 ]
