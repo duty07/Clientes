@@ -1,4 +1,5 @@
-"Clientes": [
+{
+  "Clientes": [
   {
     "id": 1,
     "name": "Juliano",
@@ -20,3 +21,4 @@
     "username": "Vieira"
   }
 ]
+}
