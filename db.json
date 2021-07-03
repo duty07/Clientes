@@ -1,13 +1,37 @@
-{
-  
-  "clientes": [
-    { "id": 1, "nome": "Marcelo da Padaria", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Luan Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiz da Oficina", "curso": 1 }
-  ],
-  "empresa": {
-    "nome": "Nohau Barber Club"
-  }
-}
+[
+  {
+    "id": 1,
+    "name": "Juliano",
+    "username": "Mendes"
+  },
+  {
+    "id": 2,
+    "name": "Luan ",
+    "username": "Marden"
+  },
+  {
+    "id": 3,
+    "name": "João",
+    "username": "Douglas"
+  },
+  {
+    "id": 4,
+    "name": "Thiago",
+    "username": "Vieira"
+  },
+  {
+    "id": 5,
+    "name": "Francisco",
+    "username": "Bocaiuva"
+  },
+  {
+    "id": 6,
+    "name": "Jorge",
+    "username": "Igor"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles"
+    }
+]
